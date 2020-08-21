@@ -36,3 +36,11 @@ Script used to intitally clean a raw corpus before additional pre-processing by 
 
 #### Filename: clean/clean_corpora.py
 
+
+### Description
+
+<p>
+Script used to split a corpus into training, test and development sets
+</p>
+
+#### Filename: split/split.py
