@@ -55,4 +55,4 @@ Script used to split a corpus into training, test and development sets
 Script used to automate the recommendation process
 </p>
 
-#### Filename: clean/clean_corpora.py
+#### Filename: recommenddations_script/recommendations.py
