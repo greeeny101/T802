@@ -46,3 +46,13 @@ Script used to split a corpus into training, test and development sets
 </p>
 
 #### Filename: split/split.py
+
+## Section 4.3.4 Objective 5 – Develop a set of scripts to train and evaluate a machine translation system
+
+### Description
+
+<p>
+Script used to automate the recommendation process
+</p>
+
+#### Filename: clean/clean_corpora.py
