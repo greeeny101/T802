@@ -38,6 +38,7 @@ Script used to intitally clean a raw corpus before additional pre-processing by 
 
 #### Filename: clean/clean_corpora.py
 
+## Section 3.3.2 3.3.2	Partitioning a Corpus for Training, Development and Testing
 
 ### Description
 
