@@ -1,5 +1,5 @@
 """
-This file is an equivalent python script of the experiment.perl file that can be found at 
+This file python script based upon the EMS experimentaion.perl script provided by Moses that can be found at 
 https://github.com/moses-smt/mosesdecoder/blob/master/scripts/ems/fix-info.perl
 """
 import os
